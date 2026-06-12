@@ -4,12 +4,4 @@ IoT & Embedded Systems Engineer specializing in building end-to-end smart system
 
 I have developed multiple real-world projects including solar energy systems with MPPT control, industrial automation solutions, and Bluetooth-based IoT devices. Also experienced in delivering technical training in robotics and IoT.
 
-Skills
-Embedded Systems (ESP32, Arduino, PIC, PLC)
-IoT & Wireless Communication
-Power Electronics & DC-DC Converters
-Circuit Design & Prototyping
-Sensor Integration
-Mobile App Integration (Android)
-Industrial Automation
-Technical Training
+Skills :Embedded Systems (ESP32, Arduino, PIC, PLC) || IoT & Wireless Communication || Power Electronics || Circuit Design & Prototyping || Mobile App Integration || Industrial Automation || Technical Training
